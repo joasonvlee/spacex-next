@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
   "name": "SpaceX Next",
-  "version": "1.0",
+  "version": "1.0.0",
   "author": "Joas Onvlee",
 
-  "description": "A web extension displaying data about the next SpaceX launch.",
+  "description": "A Firefox addon displaying data about the next SpaceX launch.",
   "homepage_url": "https://github.com/joasonvlee/spacex-next",
   "icons": {
     "32": "img/logo-32.png"
