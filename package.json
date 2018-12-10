@@ -1,0 +1,27 @@
+{
+  "name": "spacex-next",
+  "version": "1.0.0",
+  "description": "Firefox addon displaying data about the next SpaceX launch.",
+  "author": "Joas Onvlee <https://github.com/joasonvlee>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joasonvlee/spacex-next"
+  },
+  "keywords": [
+    "firefox",
+    "addon",
+    "web",
+    "extension",
+    "spacex",
+    "countdown",
+    "launch"
+  ],
+  "devDependencies": {
+    "web-ext": "^2.9.2"
+  },
+  "scripts": {
+    "start-firefox": "web-ext run --source-dir ./src/",
+    "build-firefox": "web-ext build --source-dir ./src/"
+  },
+  "license": "MIT"
+}

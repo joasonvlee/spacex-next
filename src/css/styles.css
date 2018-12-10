@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    color: #fff;
+    background: linear-gradient(0deg, #0d0d0d, #27272f) no-repeat center center fixed;
+    background-size: cover;
+}
+
+#popup-content {
+    background-image: radial-gradient(ellipse closest-side, hsla(0, 0%, 16%, 0.15), hsla(0, 0%, 29%, 0))
+}
+
+#info {
+    padding: 2.2rem 2.2rem 0;
+    min-width: 550px;
+    max-width: 570px
+}
+
+#info-title {
+    margin: 0;
+    padding-bottom: 1rem;
+    font-size: 2rem;
+    font-family: "Brandon Thin", sans-serif;
+    letter-spacing: 3px;
+    text-transform: uppercase
+}
+
+#info-secondary-title {
+    margin: 0;
+    padding-bottom: 15px;
+    font-size: 1.2rem;
+    font-weight: 100;
+    font-family: "Brandon Regular", sans-serif;
+    letter-spacing: 1px;
+    border-bottom: 1px #6e6e6e solid
+}
+
+#timer {
+    padding: 0 1rem 1rem;
+    min-width: 550px;
+    max-width: 570px;
+    background-size: cover;
+    font-family: "Brandon Thin", sans-serif;
+    font-size: 3.5em;
+    letter-spacing: 5px;
+    text-transform: uppercase
+}
+
+#timer-row {
+    display: flex;
+    position: relative;
+    flex-direction: row
+}
+
+.timer-col {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 16.666666666666668%;
+    padding: 1.4rem
+}
+
+.time-value {
+    font-size: 4rem
+}
+
+.time-name {
+    font-size: 1.5rem;
+    margin-left: .6rem
+}

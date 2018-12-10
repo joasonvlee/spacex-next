@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Brandon Regular";
+    font-style: normal;
+    src: url("brandon-regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Brandon Thin";
+    font-style: normal;
+    src: url("brandon-thin.otf") format("opentype");
+}
