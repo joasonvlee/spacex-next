@@ -2,6 +2,12 @@
 
 ![Firefox addon](https://img.shields.io/amo/v/spacex-next.svg)
 ![Firefox addon users](https://img.shields.io/amo/users/spacex-next.svg)
+<br/>
+<br/>
+
+![Screenshot](https://raw.githubusercontent.com/joasonvlee/spacex-next/master/doc/img/screenshot.png)
+<br/>
+<br/>
 
 `spacex-next` is a Firefox addon that displays data about the next SpaceX launch.
 
