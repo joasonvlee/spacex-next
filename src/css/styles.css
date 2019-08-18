@@ -2,7 +2,7 @@ body {
     margin: 0;
     color: #fff;
     background: linear-gradient(0deg, #0d0d0d, #27272f) no-repeat center center fixed;
-    background-size: cover;
+    background-size: cover
 }
 
 #popup-content {
