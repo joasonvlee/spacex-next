@@ -25,4 +25,4 @@ Want to add the addon to Firefox or leave a positive rating? `spacex-next` is av
 
 A project by [Joas Onvlee](https://github.com/joasonvlee).
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://addons.mozilla.org/en-US/firefox/addon/spacex-next/license/1.0)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://addons.mozilla.org/en-US/firefox/addon/spacex-next/license)
